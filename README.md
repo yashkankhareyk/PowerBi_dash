@@ -1,4 +1,4 @@
-Sales Insights – Bricks & Mortar Business [Power BI | SQL]
+**Sales Insights – Bricks & Mortar Business [Power BI | SQL]**
 Project Overview
 This is a guided project focused on analyzing sales trends for Atliq Hardware, a bricks-and-mortar business. The Power BI dashboard helps in understanding revenue patterns, top-performing products, and customer behavior.
 
